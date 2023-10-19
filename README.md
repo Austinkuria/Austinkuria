@@ -18,7 +18,7 @@ I am Austin Maina, a third-year Software Engineering student at Kirinyaga Univer
 ### 🌐 Connect with Me
 
 - 📧 Email: [kuriaaustin125@gmail.com](kuriaaustin125@gmail.com)
-- LinkedIn: [Austin Maina](www.linkedin.com/in/austin-maina)
+- LinkedIn: [www.linkedin.com/in/austin-maina](www.linkedin.com/in/austin-maina)
 
 
 ### 🤝 Let's Collaborate
