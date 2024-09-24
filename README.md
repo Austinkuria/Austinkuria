@@ -70,6 +70,8 @@ Feel free to explore my [GitHub repositories](https://github.com/Austinkuria?tab
 ### 📚 Learning Journey
 
 Currently exploring:
+
+
 ![API](https://img.shields.io/badge/API-3703a3?style=for-the-badge&logo=api&logoColor=white)
 
 ---
