@@ -70,7 +70,7 @@ Feel free to explore my [GitHub repositories](https://github.com/Austinkuria?tab
 ### 📚 Learning Journey
 
 Currently exploring:
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![API](https://img.shields.io/badge/API-3703a3?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
