@@ -35,8 +35,8 @@ I am a Software Engineering student at Kirinyaga University, passionate about fu
 
 ### 🌐 Connect with Me
 
-- 📧 Email: [kuriaaustin125@gmail.com](mailto:kuriaaustin125@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/austin-maina](https://www.linkedin.com/in/austin-maina)
+- 📧 Email: 
+- 💼 LinkedIn:
 
 <p align="center">
   <a href="mailto:kuriaaustin125@gmail.com">
