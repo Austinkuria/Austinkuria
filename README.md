@@ -70,23 +70,32 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Austinkuria/E-commerce-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" />
-  </a>
-  <a href="https://github.com/Austinkuria/Veritas-Travels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Austinkuria/attendance-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" />
-  </a>
-  <a href="https://github.com/Austinkuria/clinique-beauty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Austinkuria/E-commerce-Site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Austinkuria/Veritas-Travels">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Austinkuria/attendance-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Austinkuria/clinique-beauty">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Current Focus
 
