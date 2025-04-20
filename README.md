@@ -71,18 +71,18 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 
 ## 🚀 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
-  <a href="https://github.com/Austinkuria/E-commerce-Site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" alt="E-commerce Site" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://github.com/Austinkuria/E-commerce-Site" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" alt="E-commerce Site" />
   </a>
-  <a href="https://github.com/Austinkuria/Veritas-Travels">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" alt="Veritas Travels" />
+  <a href="https://github.com/Austinkuria/Veritas-Travels" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" alt="Veritas Travels" />
   </a>
-  <a href="https://github.com/Austinkuria/attendance-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" alt="Attendance System" />
+  <a href="https://github.com/Austinkuria/attendance-system" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" alt="Attendance System" />
   </a>
-  <a href="https://github.com/Austinkuria/clinique-beauty">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" alt="Clinique Beauty" />
+  <a href="https://github.com/Austinkuria/clinique-beauty" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" alt="Clinique Beauty" />
   </a>
 </div>
 
