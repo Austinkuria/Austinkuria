@@ -1,7 +1,7 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=20FF61&height=180&section=header&text=Austin%20Maina&fontSize=54&animation=fadeIn&fontColor=ffffff&fontAlignY=35)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20FF61&center=true&vCenter=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Austin+Maina!;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8E%93+Software+Engineering+Student;%F0%9F%9A%80+Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20FF61&center=true&vCenter=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Austin+Maina!;%F0%9F%92%BB+Full-Stack+Web+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a  Software Engineering student at Kirinyaga University, with a focus on full-stack web development. I enjoy creating robust, user-friendly web applications and constantly expanding my technical skill set.
+I am a full-stack web developer with expertise in building robust, user-friendly web applications. I enjoy solving real-world problems with technology and constantly strive to expand my technical skills.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,17 +67,6 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinkuria&layout=compact&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Austinkuria&theme=radical&column=7&margin-w=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Austinkuria&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 > **Note:** While Python is the most represented in my GitHub stats, I actively work on diverse technologies, including Node.js,React, Express, MongoDB, REST APIs, and TypeScript for full-stack web development.
 
 ## 🚀 Featured Projects
@@ -99,12 +88,9 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
 
 ## 🌱 Current Focus
 
-- Designing and implementing scalable REST APIs using Node.js and Express.
-- Exploring advanced TypeScript features for cleaner and more maintainable code.
-- Building robust full-stack applications with React, MongoDB, and PostgreSQL.
-- Contributing to open-source projects and engaging with the developer community.
-- Enhancing performance and security in web applications.
-- Learning advanced database optimization techniques for PostgreSQL and MongoDB.
+- Building scalable REST APIs with Node.js and Express.
+- Developing full-stack applications using React, TypeScript, and MongoDB.
+- Exploring database optimization techniques and enhancing application performance.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
