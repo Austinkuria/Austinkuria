@@ -32,6 +32,8 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
   
   <h3>Backend</h3>
   <p>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -40,6 +42,8 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
   <h3>Database</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </p>
   
   <h3>Tools & Others</h3>
@@ -47,12 +51,9 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/API-3703a3?style=for-the-badge&logoColor=white" alt="API" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/REST%20APIs-3703a3?style=for-the-badge&logoColor=white" alt="REST APIs" />
   </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 📊 GitHub Analytics
@@ -77,28 +78,33 @@ I am a  Software Engineering student at Kirinyaga University, with a focus on fu
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+> **Note:** While Python is the most represented in my GitHub stats, I actively work on diverse technologies, including Node.js,React, Express, MongoDB, REST APIs, and TypeScript for full-stack web development.
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/veritas-travels">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=veritas-travels&theme=radical" />
+  <a href="https://github.com/Austinkuria/E-commerce-Site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" alt="E-commerce Site" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/noteapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=noteapp&theme=radical" />
+  <a href="https://github.com/Austinkuria/Veritas-Travels">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" alt="Veritas Travels" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="https://github.com/Austinkuria/attendance-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" alt="Attendance System" />
+  </a>
+  <a href="https://github.com/Austinkuria/clinique-beauty">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" alt="Clinique Beauty" />
+  </a>
 </div>
 
 ## 🌱 Current Focus
 
-- Advancing my API development skills
-- Building a portfolio of full-stack applications
-- Contributing to open source projects
-- Improving my Python and Django expertise
+- Designing and implementing scalable REST APIs using Node.js and Express.
+- Exploring advanced TypeScript features for cleaner and more maintainable code.
+- Building robust full-stack applications with React, MongoDB, and PostgreSQL.
+- Contributing to open-source projects and engaging with the developer community.
+- Enhancing performance and security in web applications.
+- Learning advanced database optimization techniques for PostgreSQL and MongoDB.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
