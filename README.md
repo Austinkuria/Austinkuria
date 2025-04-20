@@ -60,11 +60,19 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austinkuria&count_private=true&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Austinkuria&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinkuria&layout=compact&theme=radical" height="170" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Austinkuria&count_private=true&show_icons=true&theme=radical" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Austinkuria&theme=radical" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinkuria&layout=compact&theme=radical" height="170" />
+    </td>
+  </tr>
+</table>
 
 > **Note:** While Python is the most represented in my GitHub stats, I actively work on diverse technologies, including Node.js, React, Express, MongoDB, REST APIs, and TypeScript for full-stack web development.
 
