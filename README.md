@@ -133,5 +133,5 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20FF61&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20FF61&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </div>
