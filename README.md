@@ -56,9 +56,51 @@ I am a full-stack web developer with expertise in building robust, user-friendly
   </p>
 </div>
 
+<style>
+  /* Featured Projects Section */
+  .featured-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Adds spacing between items */
+    margin-top: 20px;
+  }
+
+  .featured-projects a {
+    flex: 0 0 calc(50% - 20px); /* Ensures two items per row */
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 768px) {
+    .featured-projects a {
+      flex: 0 0 100%; /* Stacks items vertically on smaller screens */
+    }
+  }
+
+  /* GitHub Analytics Section */
+  .github-analytics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Adds spacing between items */
+    margin-top: 20px;
+  }
+
+  .github-analytics img {
+    flex: 0 0 calc(50% - 20px); /* Ensures two items per row */
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 768px) {
+    .github-analytics img {
+      flex: 0 0 100%; /* Stacks items vertically on smaller screens */
+    }
+  }
+</style>
+
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div class="github-analytics">
   <img src="https://github-readme-stats.vercel.app/api?username=Austinkuria&count_private=true&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Austinkuria&theme=radical" height="170" />
 </div>
@@ -66,22 +108,21 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austinkuria&layout=compact&theme=radical" />
 </div>
-
 > **Note:** While Python is the most represented in my GitHub stats, I actively work on diverse technologies, including Node.js,React, Express, MongoDB, REST APIs, and TypeScript for full-stack web development.
 
 ## 🚀 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="https://github.com/Austinkuria/E-commerce-Site" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+<div class="featured-projects">
+  <a href="https://github.com/Austinkuria/E-commerce-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" alt="E-commerce Site" />
   </a>
-  <a href="https://github.com/Austinkuria/Veritas-Travels" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+  <a href="https://github.com/Austinkuria/Veritas-Travels">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=Veritas-Travels&theme=radical" alt="Veritas Travels" />
   </a>
-  <a href="https://github.com/Austinkuria/attendance-system" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+  <a href="https://github.com/Austinkuria/attendance-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=attendance-system&theme=radical" alt="Attendance System" />
   </a>
-  <a href="https://github.com/Austinkuria/clinique-beauty" style="flex: 0 0 calc(45% - 20px); box-sizing: border-box;">
+  <a href="https://github.com/Austinkuria/clinique-beauty">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=clinique-beauty&theme=radical" alt="Clinique Beauty" />
   </a>
 </div>
