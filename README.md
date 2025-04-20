@@ -71,7 +71,7 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
   <a href="https://github.com/Austinkuria/E-commerce-Site">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Austinkuria&repo=E-commerce-Site&theme=radical" alt="E-commerce Site" />
   </a>
