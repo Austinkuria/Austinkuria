@@ -108,7 +108,6 @@ I am a full-stack web developer with expertise in building robust, user-friendly
 
 ## 🌱 Current Focus
 
-- Building scalable REST APIs with Node.js and Express.
 - Developing full-stack applications using React, TypeScript, and MongoDB.
 - Exploring database optimization techniques and enhancing application performance.
 
